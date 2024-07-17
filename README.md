@@ -62,7 +62,7 @@ No Jupyter Notebook, crie uma nova célula e importe os pacotes para garantir qu
 `import numpy as np` <br>
 `import pandas as pd` <br>
 `import seaborn as sns` <br>
-`import warnings`
+`import warnings` <br>
 `from pandas.testing import assert_frame_equal` <br>
 `from sklearn.model_selection import train_test_split` <br>
 `from sklearn import linear_model` <br>
