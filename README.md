@@ -61,11 +61,12 @@ No Jupyter Notebook, crie uma nova célula e importe os pacotes para garantir qu
 `import matplotlib_inline` <br>
 `import numpy as np` <br>
 `import pandas as pd` <br>
-`from wordcloud import WordCloud` <br>
+`from pandas.testing import assert_frame_equal` <br>
 `import seaborn as sns` <br>
 `from sklearn.model_selection import train_test_split` <br>
 `from sklearn import linear_model` <br>
 `from sklearn import metrics` <br>
+`from wordcloud import WordCloud` <br>
 `import warnings`
 
 5. Por fim, basta executar as céculas no botão "Run this cell and Advance" ou por meio do atalho **SHIFT** + **ENTER**.
