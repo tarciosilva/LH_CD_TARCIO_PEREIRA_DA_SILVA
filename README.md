@@ -61,6 +61,7 @@ No Jupyter Notebook, crie uma nova célula e importe os pacotes para garantir qu
 `import matplotlib_inline` <br>
 `import numpy as np` <br>
 `import pandas as pd` <br>
+`from wordcloud import WordCloud` <br>
 `import seaborn as sns` <br>
 `from sklearn.model_selection import train_test_split` <br>
 `from sklearn import linear_model` <br>
