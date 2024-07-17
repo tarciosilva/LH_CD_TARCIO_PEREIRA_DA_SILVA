@@ -64,10 +64,10 @@ No Jupyter Notebook, crie uma nova célula e importe os pacotes para garantir qu
 `import seaborn as sns` <br>
 `from sklearn.model_selection import train_test_split` <br>
 `from sklearn import linear_model` <br>
-`from sklearn import metrics`
+`from sklearn import metrics` <br>
 `import warnings`
 
-5. Por fim, basta executar as céculas no botão "Run this cell and Advance" ou por ,eio do atalho **SHIFT** + **ENTER**.
+5. Por fim, basta executar as céculas no botão "Run this cell and Advance" ou por meio do atalho **SHIFT** + **ENTER**.
 
 ## Tecnologias usadas no projeto
 
