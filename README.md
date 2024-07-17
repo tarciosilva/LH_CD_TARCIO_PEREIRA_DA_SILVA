@@ -38,7 +38,7 @@ Para instalar esses pacotes no seu ambiente Jupyter Notebook, você pode seguir 
 1. Abra o terminal (Prompt de Comando no Windows).
 Execute o comando de instalação:
 
-`pip install matplotlib==3.8.2 matplotlib-inline==0.1.6 notebook==7.1.0 numpy==1.26.4 pandas==2.2.0 scikit-learn==1.5.1 seaborn==0.13.2`
+`pip install matplotlib==3.8.2 matplotlib-inline==0.1.6 notebook==7.1.0 numpy==1.26.4 pandas==2.2.0 scikit-learn==1.5.1 seaborn==0.13.2 wordcloud==1.9.3`
 
 2. Verifique a instalação:
 Após a instalação, você pode verificar se os pacotes foram instalados corretamente executando o seguinte comando no terminal:
